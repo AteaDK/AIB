@@ -14,7 +14,7 @@ function Enable-AteaAIBFeatures
       Enable-AteaAIBFeatures
   
       .LINK
-      -
+      https://github.com/larskroghdk/AIB/blob/main/Enable-AteaAIBFeatures.ps1
   
       .INPUTS
       None
