@@ -13,7 +13,7 @@ function Enable-AteaAIBIdentity
       Enable-AteaAIBIdentity
   
       .LINK
-      -
+      https://github.com/larskroghdk/AIB/blob/main/Enable-AteaAIBIdentity.ps1
   
       .INPUTS
       None
