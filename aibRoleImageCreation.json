@@ -14,6 +14,6 @@
 	"NotActions": [
 	],
 	"AssignableScopes": [
-		"/subscriptions/replace_subscriptionid/resourceGroups/replace_rgname"
+		"/subscriptions/_replace_subscriptionid_/resourceGroups/_replace_rgname_"
 	]
 }
